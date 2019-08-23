@@ -1,0 +1,35 @@
+$cat .gitignore
+*.txt
+*.local
+*.identcache
+*.dcu
+*.exe
+*.dll
+*.sys
+*.7z
+*.zip
+*.rar
+*.db
+*.vlb
+*.stat
+*.otares
+*.tmps
+__history/
+Win32/
+AutoClicker/
+B/
+BlackMonitor/
+Coctail Map DB Editor/
+Crossout Anti AFK/
+Cursor hider/
+DeHL-master/
+Dune II/
+FoE Autobuf/
+Include Sorter/
+NewTicky/
+NUTS_v2.0/
+SF/
+Test/
+Win Theme Backgrounder/
+WoW Furi macro/
+Zoom Switcher/
